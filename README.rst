@@ -38,6 +38,12 @@ If you are in a hurry
 -  run ``python searx/webapp.py`` to start the application
 
 
+Json Result
+~~~~
+
+http://127.0.0.1:PORT/?q=corona%20virus&categories=general&pageno=1&language=en-GB&format=json
+
+
 Bugs
 ~~~~
 
